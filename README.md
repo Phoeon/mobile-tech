@@ -16,6 +16,7 @@
 >这部分为移动端使用的一些基本html、css知识。
 
 1.移动端meta
+
 [常用meta整理](http://segmentfault.com/blog/ciaocc/1190000002407912)
 
 2.iconfont
@@ -65,20 +66,20 @@
 ###基础库-only [zepto](http://www.html-5.cn/Manual/Zepto/)
 >经历了`jquery mobile` 》`jquery` 》`zepto` ，主要目的为了移动端可怜的性能和网速。目前没有但是希望不过因为找不到暂时还是自己些的ui库。有考虑使用`iscroll`。下个迭代中会尝试使用zepto+fastclick+iscroll
 
->**数据操作和模板引擎使用**--`underscore`
+**数据操作和模板引擎使用**--`underscore`
 
->**css后处理使用**--`grunt-autoprefixer`
+**css后处理使用**--`grunt-autoprefixer`
 
->**字体处理**--`Fontlab Studio`
+**字体处理**--`Fontlab Studio`
 
 ###基础技术选型
 >主要是如何使用一些技术选型实现需求
 ps.`》`为降级方案
 
->**基础图标**--`iconfont` 》图片
+**基础图标**--`iconfont` 》图片
 
->**基础动画（移动，缩放，旋转等）**--`animation/transition`》`js动画`》`gif`
+**基础动画（移动，缩放，旋转等）**--`animation/transition`》`js动画`》`gif`
 
->**基础布局**--个人喜好
+**基础布局**--个人喜好
 
 >**待补充**
